@@ -1,0 +1,45 @@
+{
+	"name": "josefglatz/seo-aspect-ratios",
+	"type": "typo3-cms-extension",
+	"description": "Common aspect ratios for the TYPO3 CMS system package typo3/cms-seo",
+	"keywords": [
+		"TYPO3",
+		"extension",
+		"SEO",
+		"aspect ratio",
+		"improvements"
+	],
+	"support": {
+		"issues": "https://github.com/josefglatz/seo_aspect_ratios/issues",
+		"source": "https://github.com/josefglatz/seo_aspect_ratios"
+	},
+	"homepage": "https://github.com/josefglatz/seo_aspect_ratios",
+	"authors": [
+		{
+			"name": "Josef Glatz",
+			"email": "jousch@gmail.com",
+			"role": "Developer",
+			"homepage": "https://jousch.com"
+		}
+	],
+	"license": [
+		"GPL-3.0"
+	],
+	"require": {
+		"typo3/cms-core": "^9.5",
+		"typo3/cms-seo": "^9.5"
+	},
+	"require-dev": {
+		"namelesscoder/typo3-repository-client": "^2.0",
+		"mikey179/vfsStream": "~1.6.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"JosefGlatz\\SeoAspectRatios\\": "Classes"
+		}
+	},
+	"replace": {
+		"seo_aspect_ratios": "self.version",
+		"typo3-ter/seo_aspect_ratios": "self.version"
+	}
+}

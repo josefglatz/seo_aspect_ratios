@@ -3,3 +3,6 @@
 .DS_Store
 /composer.lock
 /.Build
+/vendor
+/public
+/composer.list

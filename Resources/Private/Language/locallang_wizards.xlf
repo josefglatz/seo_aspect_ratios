@@ -3,13 +3,13 @@
 	<file source-language="en" datatype="plaintext" original="messages" product-name="seo_aspect_ratios">
 		<header/>
 		<body>
-			<trans-unit id="imwizard.ratio.9_16">
+			<trans-unit id="imwizard.ratio.9_16" resname="imwizard.ratio.9_16">
 				<source>9:16</source>
 			</trans-unit>
-			<trans-unit id="imwizard.ratio.4_5">
+			<trans-unit id="imwizard.ratio.4_5" resname="imwizard.ratio.4_5">
 				<source>4:5</source>
 			</trans-unit>
-			<trans-unit id="imwizard.ratio.2_3">
+			<trans-unit id="imwizard.ratio.2_3" resname="imwizard.ratio.2_3">
 				<source>2:3</source>
 			</trans-unit>
 		</body>

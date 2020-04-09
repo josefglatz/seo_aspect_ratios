@@ -2,7 +2,7 @@
 defined('TYPO3_MODE') || die('Access denied.');
 
 call_user_func(
-    function ($extKey, $table) {
+    static function ($extKey, $table) {
         /**
          * Configure additional column configuration
          */

@@ -24,12 +24,8 @@
 	],
 	"license": "GPL-3.0-or-later",
 	"require": {
-		"typo3/cms-core": "^9.5 || ^10",
-		"typo3/cms-seo": "^9.5 || ^10"
-	},
-	"require-dev": {
-		"namelesscoder/typo3-repository-client": "^2.0",
-		"mikey179/vfsstream": "~1.6.0"
+		"typo3/cms-core": "^9.5 || ^10 || ^11",
+		"typo3/cms-seo": "^9.5 || ^10 || ^11"
 	},
 	"replace": {
 		"typo3-ter/seo_aspect_ratios": "self.version"

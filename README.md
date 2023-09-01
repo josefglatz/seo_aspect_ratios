@@ -1,6 +1,6 @@
 # TYPO3 extension `josefglatz/seo-aspect-ratios`
 
-![Supported TYPO3 versions: 9 LTS](https://img.shields.io/badge/Supported%20TYPO3%20versions-9%20LTS-brightgreen.svg)
+![Supported TYPO3 versions: 9LTS 10 LTS 11 LTS 12 LTS](https://img.shields.io/badge/Supported%20TYPO3%20versions-9LTS%2010LTS%2011LTS%2012LTS-brightgreen.svg)
 
 # A simple TYPO3 extension which extends the table configuration array for ext:seo (a TYPO3 CMS system extension) related image fields.
 

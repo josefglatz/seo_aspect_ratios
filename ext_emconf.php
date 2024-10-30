@@ -4,7 +4,7 @@ $EM_CONF[$_EXTKEY] = [
     'description' => 'Common aspect ratios for the TYPO3 CMS system extension typo3/cms-seo',
     'category' => 'Theme',
     'author' => 'Josef Glatz',
-    'author_email' => 'jousch@jousch.com',
+    'author_email' => 'typo3@josefglatz.at',
     'author_company' => 'https://jousch.com',
     'state' => 'stable',
     'clearCacheOnLoad' => 1,
@@ -13,8 +13,8 @@ $EM_CONF[$_EXTKEY] = [
         [
             'depends' =>
                 [
-                    'typo3' => '9.5.0-12.4.99',
-                    'seo' => '9.5.0-12.4.99',
+                    'typo3' => '9.5.0-13.4.99',
+                    'seo' => '9.5.0-13.4.99',
                 ],
             'conflicts' =>
                 [
